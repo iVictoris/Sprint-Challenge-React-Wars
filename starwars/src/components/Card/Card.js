@@ -9,10 +9,10 @@ const Container = styled.div`
   border-left: 1px solid black;
   border-right: 1px solid black;
   box-sizing: border-box;
-  padding: 5%;
+  padding: 4%;
   box-shadow: 1px 1px 3px 0 black;
   margin-bottom: 3%;
-  font-size: 0.75rem;
+  font-size: 0.95rem;
   background: rgba(0, 0, 0, 0.45);
 `;
 const Field = styled.div`

@@ -5,11 +5,12 @@ import { Card } from "./components/";
 import styled from "styled-components";
 
 const Container = styled.div`
-  width: 80%;
+  width: 90%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   font-size: 62.5%;
+  margin: 0 auto;
 `;
 
 const App = () => {
